@@ -1,4 +1,4 @@
-package com.alberto.sistemareportes;
+package org.example.sistemareportes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
